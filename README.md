@@ -39,3 +39,17 @@
 <img width="1126" height="576" alt="Screenshot 2025-12-29 104419" src="https://github.com/user-attachments/assets/0d26e392-85e8-4cab-9437-0a57077e3eb1" />
 
 
+// 9) Encapsulation Thiskeyword:-
+
+<img width="816" height="567" alt="Screenshot 2025-12-29 104856" src="https://github.com/user-attachments/assets/c76314b2-932f-4eb8-a617-99ed06bd8104" />
+<img width="836" height="550" alt="Screenshot 2025-12-29 104917" src="https://github.com/user-attachments/assets/541b2808-1674-4b3b-b31d-4290134a4ccc" />
+<img width="834" height="669" alt="Screenshot 2025-12-29 104949" src="https://github.com/user-attachments/assets/aebb3bab-5a86-4a79-97f5-28608ca757b6" />
+<img width="885" height="465" alt="Screenshot 2025-12-29 105005" src="https://github.com/user-attachments/assets/154d2265-8881-470b-9e25-5162fd675b64" />
+
+
+
+
+
+
+
+
