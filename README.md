@@ -26,7 +26,9 @@
 
 // 6) Inheritance (Protected) :-
 
-
+<img width="823" height="550" alt="Screenshot 2025-12-29 111645" src="https://github.com/user-attachments/assets/8091c846-d056-4bfa-89d2-2c1007af1ecb" />
+<img width="833" height="314" alt="Screenshot 2025-12-29 111723" src="https://github.com/user-attachments/assets/75271686-3781-411b-9a9d-bb14c7041f3c" />
+<img width="851" height="322" alt="Screenshot 2025-12-29 111735" src="https://github.com/user-attachments/assets/04cbabb5-41ab-4386-bbad-f55722ec38eb" />
 
 
 // 7) Leap year :-
@@ -44,7 +46,7 @@
 <img width="816" height="567" alt="Screenshot 2025-12-29 104856" src="https://github.com/user-attachments/assets/c76314b2-932f-4eb8-a617-99ed06bd8104" />
 <img width="836" height="550" alt="Screenshot 2025-12-29 104917" src="https://github.com/user-attachments/assets/541b2808-1674-4b3b-b31d-4290134a4ccc" />
 <img width="834" height="669" alt="Screenshot 2025-12-29 104949" src="https://github.com/user-attachments/assets/aebb3bab-5a86-4a79-97f5-28608ca757b6" />
-<img width="885" height="465" alt="Screenshot 2025-12-29 105005" src="https://github.com/user-attachments/assets/154d2265-8881-470b-9e25-5162fd675b64" />
+<img width="885" height="465" alt="Screenshot 2025-12-29 105005" src="https://github.com/user-attachments/assets/154d2265-8881-470b-9e25-5162fd675b64" /
 
 // 10) Setter and getter :-
 
