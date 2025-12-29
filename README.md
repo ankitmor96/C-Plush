@@ -22,3 +22,13 @@
 // 5)Inheritance (private):-
 
 <img width="981" height="580" alt="Screenshot 2025-12-29 103039" src="https://github.com/user-attachments/assets/4a550b8e-26cc-401f-9499-4c2a42112ac5" />
+
+// 6)Inheritance (Protected):-
+
+
+
+
+// 7) Leap year :-
+
+<img width="1310" height="617" alt="Screenshot 2025-12-29 104051" src="https://github.com/user-attachments/assets/f0dd8176-4f6d-4a2f-8445-0fb8d8588638" />
+
