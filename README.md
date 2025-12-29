@@ -11,3 +11,8 @@
 // 3)Inheritance (public):-
 
 <img width="1021" height="571" alt="Screenshot 2025-12-29 102734" src="https://github.com/user-attachments/assets/83888df1-18d1-49c9-802a-9453fd2c7066" />
+
+
+// 4)Inheritance (private):-
+
+<img width="981" height="580" alt="Screenshot 2025-12-29 103039" src="https://github.com/user-attachments/assets/4a550b8e-26cc-401f-9499-4c2a42112ac5" />
