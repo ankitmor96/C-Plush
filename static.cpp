@@ -69,17 +69,18 @@ int main() {
 
    
     for (int i = 0; i < n; i++) {
-        cout << "\n--- Enter Address of Hotel " << i + 1 << " ---";
+        cout << "\n Enter Address of Hotel " << i + 1 << "   ";
         h[i].setData();
     }
 
     
     for (int i = 0; i < n; i++) {
-        cout << "\n--- Hotel " << i + 1 << " Details ---";
+        cout << "\n Hotel " << i + 1 << " Details  ";
         h[i].getData();
     }
 
     return 0;
 }
+
 
 
