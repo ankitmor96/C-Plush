@@ -46,6 +46,17 @@
 <img width="834" height="669" alt="Screenshot 2025-12-29 104949" src="https://github.com/user-attachments/assets/aebb3bab-5a86-4a79-97f5-28608ca757b6" />
 <img width="885" height="465" alt="Screenshot 2025-12-29 105005" src="https://github.com/user-attachments/assets/154d2265-8881-470b-9e25-5162fd675b64" />
 
+// 10) Setter and getter :-
+
+<img width="835" height="664" alt="Screenshot 2025-12-29 105601" src="https://github.com/user-attachments/assets/75687914-a4d9-464b-b2df-b93d0681fcff" />
+<img width="829" height="394" alt="Screenshot 2025-12-29 105636" src="https://github.com/user-attachments/assets/3a3ae2ed-a586-489c-bdb8-c6e826e43788" />
+<img width="827" height="356" alt="Screenshot 2025-12-29 105649" src="https://github.com/user-attachments/assets/1bab427c-5a36-43c0-a3c6-3ddd93f7edde" />
+<img width="801" height="356" alt="Screenshot 2025-12-29 105700" src="https://github.com/user-attachments/assets/08ed1657-523e-4476-a377-380009af6e5f" />
+
+
+
+
+
 
 
 
