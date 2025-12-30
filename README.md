@@ -104,6 +104,19 @@ This follows proper encapsulation principles and ensures controlled access.
 The static keyword is used to share data among all objects of a class.
 Static members are created only once and memory is allocated only one time.
 
+// 12) Parameterized Constructor :-
+
+<img width="818" height="696" alt="Screenshot 2025-12-30 113524" src="https://github.com/user-attachments/assets/4075f6e9-7bff-4d56-b45e-6921e64db636" />
+<img width="825" height="672" alt="Screenshot 2025-12-30 113550" src="https://github.com/user-attachments/assets/87355f9c-31c2-4e9f-92b8-abc3ae2e3453" />
+<img width="833" height="273" alt="Screenshot 2025-12-30 113607" src="https://github.com/user-attachments/assets/c213ee62-b24a-4745-982d-8a6083641539" />
+<img width="826" height="394" alt="Screenshot 2025-12-30 113629" src="https://github.com/user-attachments/assets/3ab09016-0dd6-4501-bddc-741293e3ff2e" />
+
+A parameterized constructor is a special member function of a class that accepts parameters and is used to initialize data members with user-defined values at the time of object creation.
+
+
+
+
+
 
 
 
