@@ -114,6 +114,21 @@ Static members are created only once and memory is allocated only one time.
 A parameterized constructor is a special member function of a class that accepts parameters and is used to initialize data members with user-defined values at the time of object creation.
 
 
+// 13) Default Constructor :-
+
+<img width="635" height="661" alt="Screenshot 2025-12-30 130257" src="https://github.com/user-attachments/assets/c195da46-2fc2-4068-bda8-f57b1c3f7b3a" />
+<img width="822" height="504" alt="Screenshot 2025-12-30 130319" src="https://github.com/user-attachments/assets/9ae708dc-480c-4e12-a9cb-a1b7173658bd" />
+<img width="830" height="398" alt="Screenshot 2025-12-30 130330" src="https://github.com/user-attachments/assets/2a44abac-de57-4b69-85ad-5e851dfe1a7e" />
+<img width="876" height="617" alt="Screenshot 2025-12-30 130343" src="https://github.com/user-attachments/assets/adf74e82-645d-46b6-ae19-22864f6e3969" />
+
+A default constructor is a constructor that does not take any parameters.
+It is called automatically when an object of a class is created without passing arguments.
+
+
+
+
+
+
 
 
 
