@@ -36,7 +36,7 @@ int main() {
         int totalSeconds;
         cout << "Enter total seconds: ";
         cin >> totalSeconds;
-        tc.secondsToTime(totalSeconds);
+        tc.secondsTohours(totalSeconds);
     }
     else if (choice == 2) {
         int h, m, s;
@@ -46,12 +46,11 @@ int main() {
         cin >> m;
         cout << "Enter SS: ";
         cin >> s;
-        tc.timeToSeconds(h, m, s);
+        tc.hoursToSeconds(H, M, S);
     }
     else {
-        cout << "Invalid choice";
+        cout << "Incorrect choice";
     }
 
     return 0;
 }
-
