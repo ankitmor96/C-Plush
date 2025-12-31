@@ -15,7 +15,13 @@ class Cafe{
 public:
   
   Cafe(){
-   
+   cafe_id=0;
+    cafe_name=" not set";
+    cafe_type="not set";
+    cafe_rating=0;
+    cafe_establish_year=0;
+    cafe_location="not set";
+    cafe_staff_Quality=0;
   }
   void getData(){
 
@@ -63,3 +69,4 @@ int main(){
     return 0;
 
 }
+
