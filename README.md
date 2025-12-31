@@ -86,6 +86,8 @@ It is used to differentiate between data members and function parameters with th
 <img width="835" height="664" alt="Screenshot 2025-12-29 105601" src="https://github.com/user-attachments/assets/75687914-a4d9-464b-b2df-b93d0681fcff" />
 <img width="829" height="394" alt="Screenshot 2025-12-29 105636" src="https://github.com/user-attachments/assets/3a3ae2ed-a586-489c-bdb8-c6e826e43788" />
 <img width="827" height="356" alt="Screenshot 2025-12-29 105649" src="https://github.com/user-attachments/assets/1bab427c-5a36-43c0-a3c6-3ddd93f7edde" />
+<img width="845" height="233" alt="Screenshot 2025-12-31 164052" src="https://github.com/user-attachments/assets/af987bff-f570-48d4-a9a2-7f1f753ff534" />
+<img width="847" height="273" alt="Screenshot 2025-12-31 164128" src="https://github.com/user-attachments/assets/be779853-f1d4-49a2-82d3-d1b63d6e9f3f" />
 <img width="801" height="356" alt="Screenshot 2025-12-29 105700" src="https://github.com/user-attachments/assets/08ed1657-523e-4476-a377-380009af6e5f" />
 
 Setter → Sets or updates private data
