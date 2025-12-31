@@ -15,13 +15,14 @@ class Cafe{
 public:
   
   Cafe(){
-   cafe_id=0;
+    cafe_id=0;
     cafe_name=" not set";
     cafe_type="not set";
     cafe_rating=0;
-    cafe_establish_year=0;
     cafe_location="not set";
+    cafe_establish_year=0;
     cafe_staff_Quality=0;
+   
   }
   void getData(){
 
@@ -42,6 +43,9 @@ public:
 
     cout<<"\n enter cafe establish year       :"<<endl;
     cin>>cafe_establish_year;
+    
+    cout<<"\n enter cafe staff Quality        :"<<endl;
+    cin>>cafe_staff_Quality;
   }
   void Display(){
     cout<<"\n cafe id                          :"<<cafe_id;
@@ -67,6 +71,4 @@ int main(){
 
     }
     return 0;
-
 }
-
