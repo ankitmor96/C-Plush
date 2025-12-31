@@ -26,9 +26,9 @@ int main() {
     TimeConverter T;
     int choice;
 
-    cout << "Time Converter\n";
-    cout << "1. Seconds to HH:MM:SS\n";
-    cout << "2. HH:MM:SS to Seconds\n";
+    cout << "Time Converter"<<endl;
+    cout << "1. Seconds to HH:MM:SS"<<endl;
+    cout << "2. HH:MM:SS to Seconds"<<endl;
     cout << "Enter choice: ";
     cin >> choice;
 
@@ -49,9 +49,12 @@ int main() {
         T.hoursToSeconds(H, M, S);
     }
     else {
-        cout << "Incorrect choice";
+        cout<<"Not Changed your time please choice any ones : ";
     }
+    
 
     return 0;
 }
+
+
 
