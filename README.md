@@ -125,6 +125,26 @@ A default constructor is a constructor that does not take any parameters.
 It is called automatically when an object of a class is created without passing arguments.
 
 
+// 14) Default Constructor :-
+
+<img width="826" height="529" alt="Screenshot 2025-12-31 113259" src="https://github.com/user-attachments/assets/54291fe6-d287-450b-8539-ecdfbc2b1d36" />
+<img width="831" height="612" alt="Screenshot 2025-12-31 113317" src="https://github.com/user-attachments/assets/0484a4ad-02e6-4758-a3bf-3032a5916851" />
+<img width="832" height="466" alt="Screenshot 2025-12-31 113331" src="https://github.com/user-attachments/assets/4e705221-a66f-4ff5-b891-1928f55c1930" />
+<img width="853" height="558" alt="Screenshot 2025-12-31 113342" src="https://github.com/user-attachments/assets/73e30853-63ba-433b-9ac2-a0863c35a26f" />
+
+The default constructor is automatically called when an object is created.
+
+Purpose:
+
+Initializes all data members with default values
+
+Ensures object safety before user input
+
+
+
+
+
+
 
 
 
