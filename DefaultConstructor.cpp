@@ -56,6 +56,9 @@ public:
     cout<<"\n cafe establish year              :"<<cafe_establish_year;
         
   }
+~Cafe(){
+    cout<<"\n Destructor called for Cafe id:"<<endl;
+}
 };
 int main(){
     int n;
@@ -72,3 +75,4 @@ int main(){
     }
     return 0;
 }
+
