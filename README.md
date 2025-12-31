@@ -76,7 +76,7 @@ Arrays are used to store multiple values efficiently.
 <img width="816" height="567" alt="Screenshot 2025-12-29 104856" src="https://github.com/user-attachments/assets/c76314b2-932f-4eb8-a617-99ed06bd8104" />
 <img width="836" height="550" alt="Screenshot 2025-12-29 104917" src="https://github.com/user-attachments/assets/541b2808-1674-4b3b-b31d-4290134a4ccc" />
 <img width="834" height="669" alt="Screenshot 2025-12-29 104949" src="https://github.com/user-attachments/assets/aebb3bab-5a86-4a79-97f5-28608ca757b6" />
-<img width="885" height="465" alt="Screenshot 2025-12-29 105005" src="https://github.com/user-attachments/assets/154d2265-8881-470b-9e25-5162fd675b64" /
+<img width="885" height="465" alt="Screenshot 2025-12-29 105005" src="https://github.com/user-attachments/assets/154d2265-8881-470b-9e25-5162fd675b64" />
 
 The this keyword refers to the current object of the class.
 It is used to differentiate between data members and function parameters with the same name.
@@ -147,6 +147,8 @@ Ensures object safety before user input
 
 <img width="807" height="596" alt="Screenshot 2025-12-31 163556" src="https://github.com/user-attachments/assets/fccb2c86-05d4-4642-94d6-97cf1b6be53b" />
 <img width="821" height="641" alt="Screenshot 2025-12-31 163610" src="https://github.com/user-attachments/assets/f1cce99b-c095-454e-838b-74847a9e8005" />
+<img width="845" height="233" alt="Screenshot 2025-12-31 164052" src="https://github.com/user-attachments/assets/db8099d1-60d4-4fcf-8260-4888d6c9362d" />
+<img width="847" height="273" alt="Screenshot 2025-12-31 164128" src="https://github.com/user-attachments/assets/c64e6fee-2619-4b97-8120-d1a218fb7635" />
 <img width="846" height="281" alt="Screenshot 2025-12-31 163618" src="https://github.com/user-attachments/assets/f19bd112-b376-4544-a941-89cb5a4ff294" />
 
 🔹 Features of the Program
