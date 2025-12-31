@@ -4,7 +4,7 @@ using namespace std;
 class TimeConverter {
 public:
    
-    void secondsToTime(int totalSeconds) {
+    void secondsTohours(int totalSeconds) {
         int hours = totalSeconds / 3600;
         int minutes = (totalSeconds % 3600) / 60;
         int seconds = totalSeconds % 60;
@@ -16,7 +16,7 @@ public:
     }
 
   
-    void timeToSeconds(int hours, int minutes, int seconds) {
+    void hoursToSeconds(int hours, int minutes, int seconds) {
         int totalSeconds = (hours * 3600) + (minutes * 60) + seconds;
         cout << "Total Seconds  " << totalSeconds << endl;
     }
@@ -54,3 +54,4 @@ int main() {
 
     return 0;
 }
+
