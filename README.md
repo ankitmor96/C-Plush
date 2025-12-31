@@ -141,6 +141,50 @@ Initializes all data members with default values
 Ensures object safety before user input
 
 
+// 15) Time Converter :-
+
+<img width="807" height="596" alt="Screenshot 2025-12-31 163556" src="https://github.com/user-attachments/assets/fccb2c86-05d4-4642-94d6-97cf1b6be53b" />
+<img width="821" height="641" alt="Screenshot 2025-12-31 163610" src="https://github.com/user-attachments/assets/f1cce99b-c095-454e-838b-74847a9e8005" />
+<img width="846" height="281" alt="Screenshot 2025-12-31 163618" src="https://github.com/user-attachments/assets/f19bd112-b376-4544-a941-89cb5a4ff294" />
+
+🔹 Features of the Program
+
+✔ Uses Class & Objects
+✔ Menu-driven user interaction
+✔ Converts:
+
+Seconds → Hours : Minutes : Seconds
+
+Hours : Minutes : Seconds → Total Seconds
+✔ Simple logic and beginner-friendly
+✔ Clean console output
+
+🔹 Program Functionality
+
+1️⃣ Seconds to HH:MM:SS
+
+User enters total seconds
+
+Program calculates:
+
+Hours
+
+Minutes
+
+Remaining Seconds
+
+2️⃣ HH:MM:SS to Seconds
+
+User enters hours, minutes, and seconds
+
+Program converts everything into total seconds
+
+3️⃣ Input Validation
+
+
+
+
+
 
 
 
