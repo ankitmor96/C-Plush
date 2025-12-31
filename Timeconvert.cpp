@@ -23,7 +23,7 @@ public:
 };
 
 int main() {
-    TimeConverter tc;
+    TimeConverter T;
     int choice;
 
     cout << "Time Converter\n";
@@ -36,17 +36,17 @@ int main() {
         int totalSeconds;
         cout << "Enter total seconds: ";
         cin >> totalSeconds;
-        tc.secondsTohours(totalSeconds);
+        T.secondsTohours(totalSeconds);
     }
     else if (choice == 2) {
-        int h, m, s;
+        int H, M, S;
         cout << "Enter HH: ";
-        cin >> h;
+        cin >> H;
         cout << "Enter MM: ";
-        cin >> m;
+        cin >> M;
         cout << "Enter SS: ";
-        cin >> s;
-        tc.hoursToSeconds(H, M, S);
+        cin >> S;
+        T.hoursToSeconds(H, M, S);
     }
     else {
         cout << "Incorrect choice";
@@ -54,3 +54,4 @@ int main() {
 
     return 0;
 }
+
