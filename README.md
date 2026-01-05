@@ -185,6 +185,25 @@ Program converts everything into total seconds
 
 3️⃣ Input Validation
 
+// 16) fahraneheit :
+
+<img width="793" height="674" alt="Screenshot 2026-01-05 105422" src="https://github.com/user-attachments/assets/892d340a-122f-42b6-b4af-06e1588ee396" />
+<img width="796" height="285" alt="Screenshot 2026-01-05 105433" src="https://github.com/user-attachments/assets/c110e203-e7fa-415a-bc18-231e755067da" />
+<img width="346" height="78" alt="Screenshot 2026-01-05 105438" src="https://github.com/user-attachments/assets/2e1f1b4c-c9b2-4dfe-8864-328f2757cf24" />
+
+🌡️ Temperature Conversion in C++ (OOP)
+
+This project demonstrates temperature conversion using C++ Object-Oriented Programming (OOP) concepts such as inheritance and access specifiers.
+
+The program converts:
+
+Celsius → Fahrenheit
+
+Fahrenheit → Kelvin
+
+
+
+
 
 
 
