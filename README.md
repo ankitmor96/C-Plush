@@ -201,6 +201,100 @@ Celsius → Fahrenheit
 
 Fahrenheit → Kelvin
 
+//17) Railway management program :-
+
+<img width="765" height="607" alt="Screenshot 2026-01-06 170533" src="https://github.com/user-attachments/assets/4963d3b2-5ad7-48aa-b063-e93daec63ca8" />
+<img width="741" height="614" alt="Screenshot 2026-01-06 170542" src="https://github.com/user-attachments/assets/ffd8d334-0e9d-452b-9903-5b975d3919f7" />
+<img width="723" height="601" alt="Screenshot 2026-01-06 170601" src="https://github.com/user-attachments/assets/59fd00e8-dbce-441d-b90e-80e333a19f4e" />
+<img width="617" height="634" alt="Screenshot 2026-01-06 170612" src="https://github.com/user-attachments/assets/fb782481-ff82-4458-a491-675b0bd22aaa" />
+<img width="698" height="659" alt="Screenshot 2026-01-06 170620" src="https://github.com/user-attachments/assets/90a518ea-2980-4ffd-92c9-fd5e158f508d" />
+<img width="479" height="692" alt="Screenshot 2026-01-06 170626" src="https://github.com/user-attachments/assets/317466bb-2f24-4538-88fb-692f79da7478" />
+
+🚆 Railway Management System (C++)
+📌 Overview
+
+This project is a Railway Management System implemented in C++ using Object-Oriented Programming (OOP) principles. It demonstrates concepts such as classes, encapsulation, static members, constructors, destructors, and object management.
+
+The system allows users to:
+
+Store train details
+
+Display all train records
+
+Search for a train using its train number
+
+Track the total number of train objects created
+
+🧱 Class Design
+1️⃣ Train Class
+
+Represents individual train details.
+
+🔒 Private Data Members
+
+int trainNumber
+
+char trainName[50]
+
+char source[50]
+
+char destination[50]
+
+char trainTime[10]
+
+📌 Static Member
+
+static int trainCount
+Keeps track of the number of Train objects created.
+
+🔧 Constructors
+
+Default Constructor – Initializes train details with empty values
+
+Parameterized Constructor – Initializes train details with user-defined values
+
+🗑 Destructor
+
+Decrements trainCount when a Train object is destroyed
+
+🔑 Getters and Setters
+
+Provided for each data member to ensure encapsulation
+
+⚙️ Member Functions
+
+void inputTrainDetails() – Takes train details from the user
+
+void displayTrainDetails() – Displays train information
+
+static int getTrainCount() – Returns the total number of train objects
+
+2️⃣ RailwaySystem Class
+
+Manages multiple train records.
+
+🔒 Private Data Members
+
+Train trains[100] – Array to store train objects
+
+int totalTrains – Tracks the total number of trains added
+
+⚙️ Public Member Functions
+
+void addTrain() – Adds a new train record
+
+void displayAllTrains() – Displays all stored train records
+
+void searchTrainByNumber(int number) – Searches for a train using its number
+
+
+
+
+
+
+
+
+
 
 
 
