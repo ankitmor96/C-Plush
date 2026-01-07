@@ -288,6 +288,63 @@ void displayAllTrains() – Displays all stored train records
 void searchTrainByNumber(int number) – Searches for a train using its number
 
 
+// 18) Hybrid Inheritance :-
+
+<img width="810" height="545" alt="Screenshot 2026-01-07 102159" src="https://github.com/user-attachments/assets/6ec2630e-7c7f-45d6-894c-7631506d49a9" />
+<img width="822" height="626" alt="Screenshot 2026-01-07 102210" src="https://github.com/user-attachments/assets/b6ee180a-9c4c-4f2e-af06-0e1f363efc45" />
+<img width="355" height="103" alt="Screenshot 2026-01-07 102220" src="https://github.com/user-attachments/assets/e358df63-7ca2-4138-9386-f134fc556adb" />
+
+🔢 Sum of Four Numbers using Hybrid Inheritance in C++
+
+This repository contains a C++ program that demonstrates the concept of Hybrid Inheritance using constructors and virtual base classes.
+The program calculates the sum of four different numbers while resolving the Diamond Problem in C++.
+
+📌 Objective
+
+To perform the sum of four numbers by implementing:
+
+Hybrid Inheritance
+
+Virtual Base Class
+
+Constructor Initialization Lists
+
+Proper constructor calling order
+
+🧠 Concepts Used
+
+Object-Oriented Programming (OOP)
+
+Hybrid Inheritance
+
+Virtual Inheritance
+
+Constructors
+
+Protected Members
+
+Diamond Problem Resolution
+
+🏗 Inheritance Structure
+        W
+       / \
+      X   Y
+       \ /
+        Z
+
+
+Class W → Base class (stores first number)
+
+Class X → Virtual derived class (stores second number)
+
+Class Y → Virtual derived class (stores third number)
+
+Class Z → Final derived class (stores fourth number & calculates sum)
+
+
+
+
+
 
 
 
