@@ -325,14 +325,6 @@ Protected Members
 
 Diamond Problem Resolution
 
-🏗 Inheritance Structure
-        W
-       / \
-      X   Y
-       \ /
-        Z
-
-
 Class W → Base class (stores first number)
 
 Class X → Virtual derived class (stores second number)
