@@ -334,6 +334,131 @@ Class Y → Virtual derived class (stores third number)
 Class Z → Final derived class (stores fourth number & calculates sum)
 
 
+// 19) EmployeeManagement System :-
+
+<img width="643" height="669" alt="Screenshot 2026-01-08 110240" src="https://github.com/user-attachments/assets/5f71fc82-c0b6-4c69-8581-1ecf5a09a08c" />
+<img width="689" height="578" alt="Screenshot 2026-01-08 110301" src="https://github.com/user-attachments/assets/75fa0cc9-f4d7-4eb4-8e1f-158eaa5d5b2c" />
+<img width="721" height="616" alt="Screenshot 2026-01-08 110314" src="https://github.com/user-attachments/assets/a5bf0b2c-bf1c-47e4-8cc2-460866ee80a1" />
+<img width="801" height="634" alt="Screenshot 2026-01-08 110334" src="https://github.com/user-attachments/assets/299ca5e1-ecbe-4d7f-8dac-53f0bc19d0bc" />
+<img width="719" height="643" alt="Screenshot 2026-01-08 110416" src="https://github.com/user-attachments/assets/da44c68e-edda-47f6-9d86-0b21ee7fe7c8" />
+<img width="309" height="681" alt="Screenshot 2026-01-08 110438" src="https://github.com/user-attachments/assets/581b6d29-4a07-4932-8f2d-cffd3eaf53f9" />
+<img width="429" height="689" alt="Screenshot 2026-01-08 110539" src="https://github.com/user-attachments/assets/693365e1-a32d-4e5c-9abf-5df34aaa0075" />
+
+📌 Employee Management System – Content (C++)
+🔹 Program Title
+
+Employee Management System using Inheritance and Polymorphism in C++
+
+🔹 Objective
+
+Aa program no main objective employees ni details manage karvo chhe jem ke:
+
+Employee add karva (Front End / Back End)
+
+Employee ni details display karvi
+
+Employee delete karvo
+
+Aa system Object Oriented Programming (OOP) concepts no use kare chhe.
+
+🔹 Concepts Used
+
+Class & Object
+
+Inheritance
+
+Runtime Polymorphism
+
+Virtual Function
+
+Dynamic Memory Allocation (new / delete)
+
+Menu Driven Program
+
+Destructor
+
+🔹 Class Description
+🔸 Base Class: Emp
+
+Data Members:
+
+id
+
+name
+
+salary
+
+Member Functions:
+
+setEmp() → employee details set kare
+
+display() → employee details print kare
+
+virtual destructor → memory free kare
+
+🔸 Derived Class: FrontEndEmp
+
+Inherits from Emp
+
+Extra Data Member:
+
+bonus
+
+Function:
+
+setFrontEndEmp()
+
+display() → front end employee ni details show kare
+
+🔸 Derived Class: BackEndEmp
+
+Inherits from Emp
+
+Extra Data Member:
+
+bonus
+
+Function:
+
+setBackEndEmp()
+
+display() → back end employee ni details show kare
+
+🔹 Polymorphism Explanation
+
+Emp class na pointer thi FrontEndEmp ane BackEndEmp na objects handle karva ma aavya chhe.
+display() function virtual hovathi runtime par correct class no function call thay chhe.
+
+🔹 Menu Options
+
+Add Front End Developer
+
+Add Back End Developer
+
+Display Employee Details
+
+Delete Last Employee
+
+Exit Program
+
+🔹 Advantages of Program
+
+Code reusable chhe
+
+Easy to manage employees
+
+Runtime polymorphism properly implemented
+
+Memory leak avoid kare chhe (destructor use)
+
+
+
+
+
+
+
+
+
 
 
 
