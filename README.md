@@ -467,6 +467,140 @@ Memory leak avoid kare chhe (destructor use)
 <img width="371" height="330" alt="Screenshot 2026-01-16 112617" src="https://github.com/user-attachments/assets/d3be4e95-446e-48b7-98e6-70e2e1ae2a8a" />
 <img width="333" height="502" alt="Screenshot 2026-01-16 112625" src="https://github.com/user-attachments/assets/b1468b2e-0d3c-444c-917d-79fec87a17c0" />
 
+Vehicle Management System
+📌 Overview
+
+The Vehicle Management System is an object-oriented program designed to manage different types of vehicles using core OOP principles such as inheritance, multiple inheritance, hierarchical inheritance, encapsulation, and polymorphism.
+
+The system allows users to:
+
+Add vehicles of different types
+
+View all registered vehicles
+
+Search vehicles by ID
+
+Manage vehicles efficiently through a central registry
+
+🧱 System Design
+1. Base Class: Vehicle
+Attributes
+
+vehicleID
+
+manufacturer
+
+model
+
+year
+
+Static Member
+
+totalVehicles – keeps track of the total number of vehicles created
+
+Methods
+
+Constructors
+
+Destructor
+
+Getters and Setters
+
+2. Derived Classes
+🚗 Car (Single Inheritance from Vehicle)
+
+Additional Attribute: fuelType
+
+🔋 ElectricCar (Multilevel Inheritance from Car)
+
+Additional Attribute: batteryCapacity
+
+✈️ Aircraft (Base Class for Multiple Inheritance)
+
+Additional Attribute: flightRange
+
+🛫 FlyingCar (Multiple Inheritance from Car and Aircraft)
+
+Combines features of both road and air vehicles
+
+🏎️ SportsCar (Multilevel Inheritance from ElectricCar)
+
+Additional Attribute: topSpeed
+
+🚘 Sedan (Hierarchical Inheritance from Car)
+
+Standard passenger car type
+
+🚙 SUV (Hierarchical Inheritance from Car)
+
+Sport Utility Vehicle variant
+
+3. VehicleRegistry Class
+Responsibilities
+
+Manages an array or collection of Vehicle objects
+
+Handles vehicle storage and retrieval
+
+Methods
+
+Add a vehicle
+
+Display all vehicles
+
+Search for a vehicle by vehicleID
+
+🖥️ Main Program Features
+
+The main() function provides a menu-driven interface that allows users to:
+
+Add a vehicle of a selected type
+
+View all registered vehicles
+
+Search for a vehicle by ID
+
+Exit the program
+
+⚙️ Key OOP Concepts Used
+
+Encapsulation
+
+Inheritance (Single, Multilevel, Hierarchical, Multiple)
+
+Polymorphism
+
+Static class members
+
+Constructors and Destructors
+
+🚀 How to Run (C++)
+
+Compile the program:
+
+g++ main.cpp -o vehicle_management
+
+
+Run the executable:
+
+./vehicle_management
+
+📁 Suggested File Structure
+VehicleManagementSystem/
+│
+├── Vehicle.h
+├── Car.h
+├── ElectricCar.h
+├── Aircraft.h
+├── FlyingCar.h
+├── SportsCar.h
+├── Sedan.h
+├── SUV.h
+├── VehicleRegistry.h
+├── main.cpp
+└── README.md
+
+
 
 
 
