@@ -451,6 +451,35 @@ Runtime polymorphism properly implemented
 
 Memory leak avoid kare chhe (destructor use)
 
+// 20) Vehicle Management System :-
+
+<img width="731" height="684" alt="Screenshot 2026-01-16 112339" src="https://github.com/user-attachments/assets/b10111b2-ed88-4c35-b9eb-260ce2108720" />
+<img width="741" height="670" alt="Screenshot 2026-01-16 112349" src="https://github.com/user-attachments/assets/efad364f-c798-4ed9-9745-278beac29c44" />
+<img width="751" height="670" alt="Screenshot 2026-01-16 112411" src="https://github.com/user-attachments/assets/b5bfac0a-22da-4c8c-bcdd-7c2c5f6bcb47" />
+<img width="807" height="661" alt="Screenshot 2026-01-16 112423" src="https://github.com/user-attachments/assets/4660434a-9e79-4a77-a089-bda8bd9ccbc3" />
+<img width="796" height="642" alt="Screenshot 2026-01-16 112449" src="https://github.com/user-attachments/assets/d63c9a76-afa9-4232-ab14-8edac42d3940" />
+<img width="748" height="658" alt="Screenshot 2026-01-16 112459" src="https://github.com/user-attachments/assets/6e829e34-1ddd-4365-843b-a2afbfbd65d1" />
+<img width="744" height="667" alt="Screenshot 2026-01-16 112512" src="https://github.com/user-attachments/assets/a1fb0e5f-8039-4dc1-92a8-c6896fc4f401" />
+<img width="751" height="665" alt="Screenshot 2026-01-16 112523" src="https://github.com/user-attachments/assets/2cf9965a-cd07-4e4a-ad5c-a8c05075191a" />
+<img width="806" height="668" alt="Screenshot 2026-01-16 112535" src="https://github.com/user-attachments/assets/e499eeb9-93fd-4183-8ef3-e75786ada258" />
+<img width="723" height="152" alt="Screenshot 2026-01-16 112546" src="https://github.com/user-attachments/assets/e689f594-8814-45eb-b24b-165fc17ea4d2" />
+<img width="370" height="424" alt="Screenshot 2026-01-16 112558" src="https://github.com/user-attachments/assets/138cf686-aa19-4a33-87f6-26bc8000de0b" />
+<img width="371" height="330" alt="Screenshot 2026-01-16 112617" src="https://github.com/user-attachments/assets/d3be4e95-446e-48b7-98e6-70e2e1ae2a8a" />
+<img width="333" height="502" alt="Screenshot 2026-01-16 112625" src="https://github.com/user-attachments/assets/b1468b2e-0d3c-444c-917d-79fec87a17c0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
